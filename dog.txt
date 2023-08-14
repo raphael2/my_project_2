@@ -1,6 +1,3 @@
 hello dog 1
 hello dog 2
-hello dog 3
-hello dog 4
-hello dog 5
-hello dog 6
+hello dog 3 
